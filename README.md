@@ -27,8 +27,9 @@ The project follows a robust ETL (Extract, Transform, Load) and analytical pipel
 3. **Audit Logistics & Pricing:** Investigate logistics contracts causing freight spikes and review algorithmic pricing to prevent sub-cost liquidations.
 
 ## 📈 Dashboard Preview
-*(Add a screenshot of your Power BI Dashboard here! You can drag and drop an image file directly into the GitHub editor to generate the link).*
-`![Dashboard Preview](Link-to-your-image-here)`
+<img width="1168" height="783" alt="Screenshot 2026-02-16 184757" src="https://github.com/user-attachments/assets/098d7b05-2792-4330-af73-c91d1d8b1940" />
+
+
 
 ## 👨‍💻 Author
 **Manisha Pal**
